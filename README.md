@@ -1,0 +1,2 @@
+# tjggzy-url-CryptoJS_decryption
+天津市公共资源交易平台链接使用CryptoJS进行AES加密，此文件是解密分析源码
